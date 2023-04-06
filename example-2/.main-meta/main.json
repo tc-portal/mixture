@@ -3,8 +3,8 @@
    "category":"com.microchip.other-example",
    "content":{
 		"metaDataVersion":"1.0.0",
-		"name":"two.2-touch-solution-data-visualizer-config",
-		"version":"1.0.0",
+		"name":"two-touch-solution-data-visualizer-config",
+		"version":"1.0.1",
 		"displayName":"Data Visualizer config files",
 		"projectName":"touch-solution-data-visualizer-config-files",
 		"shortDescription":"Data Visualizer config files and data-streamer library for Touch Solution Platform",
