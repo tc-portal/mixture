@@ -21,7 +21,7 @@
 				"category":"com.microchip.device",
 				"name":"MTCH101",
 				"versionRange":"*"
-			},
+			}
 		},
 		{
 			"metaDataVersion":"1.0.0",
