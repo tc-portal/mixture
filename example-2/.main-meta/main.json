@@ -4,7 +4,7 @@
    "content":{
 		"metaDataVersion":"1.0.0",
 		"name":"two-touch-solution-data-visualizer-config",
-		"version":"1.0.1",
+		"version":"1.0.2",
 		"displayName":"Data Visualizer config files",
 		"projectName":"touch-solution-data-visualizer-config-files",
 		"shortDescription":"Data Visualizer config files and data-streamer library for Touch Solution Platform",
@@ -19,9 +19,27 @@
 			"content":{
 				"metaDataVersion":"1.0.0",
 				"category":"com.microchip.device",
-				"name":"MTCH1060 ",
+				"name":"MTCH101",
 				"versionRange":"*"
-			}
+			},
+{
+			"metaDataVersion":"1.0.0",
+			"category":"com.microchip.portal.contentRef",
+			"content":{
+				"metaDataVersion":"1.0.0",
+				"category":"com.microchip.device",
+				"name":"MTCH102",
+				"versionRange":"*"
+			},
+{
+			"metaDataVersion":"1.0.0",
+			"category":"com.microchip.portal.contentRef",
+			"content":{
+				"metaDataVersion":"1.0.0",
+				"category":"com.microchip.device",
+				"name":"MTCH1010",
+				"versionRange":"*"
+			}			   
         }],
 
 
