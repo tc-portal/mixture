@@ -22,7 +22,8 @@
 				"name":"MTCH101",
 				"versionRange":"*"
 			},
-{
+		},
+		{
 			"metaDataVersion":"1.0.0",
 			"category":"com.microchip.portal.contentRef",
 			"content":{
@@ -30,8 +31,9 @@
 				"category":"com.microchip.device",
 				"name":"MTCH102",
 				"versionRange":"*"
-			},
-{
+			}
+		},
+		{
 			"metaDataVersion":"1.0.0",
 			"category":"com.microchip.portal.contentRef",
 			"content":{
@@ -41,8 +43,6 @@
 				"versionRange":"*"
 			}			   
         }],
-
-
 	"keywords":[
 		 "Touch",
 		 "Gesture",
